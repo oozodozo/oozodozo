@@ -13,7 +13,7 @@
   #### Проекты в работе:
     
       
-  [![Логотип проекта](https://oozodozo.github.io/mesto/images/logo.svg)](https://github.com/oozodozo/mesto)
+  [![Логотип проекта](https://oozodozo.github.io/mesto/images/logo.svg?color=999)](https://github.com/oozodozo/mesto)
 
   ###### Одностраничный сайт позволяющий делиться своими фотографиями
 
@@ -22,7 +22,7 @@
 
   ### Мои работы: 
   
-  [![Логотип проекта](https://i.ibb.co/n3Hx1K8/logo.png)](https://github.com/oozodozo/russian-travel) **Путешествие по России** 
+  [![Логотип проекта](https://oozodozo.github.io/russian-travel/images/header-logo.svg?color=999)](https://github.com/oozodozo/russian-travel) **Путешествие по России** 
   
   ###### Одностраничный сайт посвященный путешествиям по России.
   
