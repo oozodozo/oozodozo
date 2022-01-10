@@ -1,6 +1,6 @@
 ## Привет, меня зовут Иван Дозоров
 #### Учусь на факультете Веб-Разработки  
-  [![Логотип проекта](https://yastatic.net/q/logoaas/v2/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.svg?circle=white&color=fff&first=black)](https://practicum.yandex.ru/) [![Логотип проекта](https://yastatic.net/q/logoaas/v2/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC.svg?color=fff&border=black)](https://practicum.yandex.ru/)
+  [![Логотип проекта](https://yastatic.net/q/logoaas/v2/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.svg?circle=white&color=fff&first=black)](https://practicum.yandex.ru/) [![Логотип проекта](https://yastatic.net/q/logoaas/v2/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC.svg?color=999)](https://practicum.yandex.ru/)
 
 ---
 ### Погружаюсь в познания 
